@@ -1,4 +1,16 @@
 #### Front End Developer
-![header](https://capsule-render.vercel.app/api?height=400&text=Welcome&desc=Hello%20My%20GitHub&color=auto)
-[HTML](https://img.shields.io/badge/%20-HTML%20-red)
+
+<div align="center">
+  
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanav52&theme=dracula&exclude_repo=Computer-Science-Engineering,clone-zoom&hide=Procfile&layout=compact&langs_count=10"/>
+  
+  ### 🐣 I_JUNKI 🐥 
+  
+  ---
+ 
+  <a><img src="https://img.shields.io/badge/Hanav52-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
+
+  <br>
+ 
+</div>
 
