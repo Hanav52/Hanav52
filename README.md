@@ -18,11 +18,7 @@
   <a><img src="https://img.shields.io/badge/Hanav52-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
   <br>
   <br>
-<div align="right">
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanav52&show_icons=true&theme=gruvbox&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
+
  
 </div>
 
