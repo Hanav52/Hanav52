@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/React Router-CA4245?style=flat-square&logo=React Router&logoColor=white"/></a>&nbsp
   </p>
-  <a><img src="https://img.shields.io/badge/Hanav52-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
+  <a href="https://www.notion.so/hanav52/6b29066de6534a2c9f2a7b102ed8014b"><img src="https://img.shields.io/badge/Hanav52-ffffff?style=flat-square&logo=notion&logoColor=black&link=https://www.notion.so/hanav52/6b29066de6534a2c9f2a7b102ed8014b"/></a>
   <br>
   <br>
  
